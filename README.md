@@ -24,10 +24,6 @@ O jogo consiste literalmente somente no Mário pulando os canos para não morrer
 
 <br>
 
-* :file_folder: [Acesso ao Projeto](#acesso-ao-projeto)
-
-<br>
-
 * :heavy_check_mark: [Tecnologias utilizadas](#tecnologias-utilizadas)
 
   O projeto foi desenvolvido utilizando HTML, Css e JavaScript.

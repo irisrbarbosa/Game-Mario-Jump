@@ -1,4 +1,4 @@
-<h1 align="center">Jogo do Mário Simplificado </h1> 
+<h1 align="center">Jogo do Mario Simplificado </h1> 
 
 
 <h4 align="center">  Finalizado :thumbsup:
@@ -6,15 +6,15 @@
 
 
 
-A simplicidade dos códigos desse jogo não foi o que realmente me motivou para tentar fazê-lo e colocá-lo em meu projeto. Passava semanas na casa do meu pai, quando ela criança, jogando Mário com minha madrasta, tenho boas lembranças e um apego emocional pelo jogo.
-Quando vi o vídeo do Manual do Dev, ensiando a como fazer, de uma forma mais simples o que o Mário faz o jogo inteiro, resovi tentar e logo depois colocá-lo no meu GitHub. 
+A simplicidade dos códigos desse jogo não foi o que realmente me motivou para tentar fazê-lo e colocá-lo em meu projeto. Passava semanas na casa do meu pai, quando ela criança, jogando Mario com minha madrasta, tenho boas lembranças e um apego emocional pelo jogo.
+Quando vi o vídeo do Manual do Dev, ensiando a como fazer, de uma forma mais simples o que o Mario faz o jogo inteiro, resovi tentar e logo depois colocá-lo no meu GitHub. 
 
 
 <br>
 
 * :memo: [Descrição do Projeto](#descrição-do-projeto)
 
-O jogo consiste literalmente somente no Mário pulando os canos para não morrer. Como ensinado no vídeo, coloquei um fundo azul, com uma variação de cor um pouco branca, para representar o céu, o chão verde abaixo do Mário e do cano e nuvens, que vão passando ao decorrer do jogo, mesmo quando o Mário morre.
+O jogo consiste literalmente somente no Mario pulando os canos para não morrer. Como ensinado no vídeo, coloquei um fundo azul, com uma variação de cor um pouco branca, para representar o céu, o chão verde abaixo do Mario e do cano e nuvens, que vão passando ao decorrer do jogo, mesmo quando o Mario morre.
 
 <br>
 
